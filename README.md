@@ -19,5 +19,5 @@ For the AWS account that you want to have access programmatically through the AW
     - I'm not going to show mine for obvious security reasons.
 
 ## Configure Credentials on your Operating System:
-I'm using a Mac so this specific demonstration will show how to do this on Mac O/S:
+I'm using a Mac so this specific demonstration will show how to do this on Linux O/S.
 * Open your terminal
