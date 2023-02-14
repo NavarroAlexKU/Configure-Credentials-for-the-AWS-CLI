@@ -34,3 +34,8 @@ AWS Secret Access Key [None]: secretkey
 Default region name [None]: us-west-2
 Default output format [None]:
 ```
+
+## Add permissions to user:
+Now that we have our AWS CLI configured for the user, we need to add what permissions we want them to have:
+* Go back to AWS IAM
+* Click on Users then Permissions tab and select "Add Permissions"
