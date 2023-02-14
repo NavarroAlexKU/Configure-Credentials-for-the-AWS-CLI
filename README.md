@@ -46,8 +46,8 @@ Now that we have our AWS CLI configured for the user, we need to add what permis
 * Once you've chose the permissions you want for the user, you can click "Add Permissions"
 
 ![ScreenShot](https://github.com/NavarroAlexKU/Configure-Credentials-for-the-AWS-CLI/blob/main/Screenshot%202023-02-14%20at%204.38.48%20PM.png)
-* If you run choose the same AWS services for permissions as I did, you can run the following in your terminal:
-and you should see a list returned of all the s3 buckets you have access to:
+* For the AWS services you selected for the user to have permissions to, you can run the following command in your terminal:
+"aws 'aws service name' ls". So for my example, I gave my user "AmazonS3FullAccess" permissions so my command looks like this:
 ```
 aws s3 ls
 ```
