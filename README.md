@@ -39,3 +39,5 @@ Default output format [None]:
 Now that we have our AWS CLI configured for the user, we need to add what permissions we want them to have:
 * Go back to AWS IAM
 * Click on Users then Permissions tab and select "Add Permissions"
+
+![ScreenShot](https://github.com/NavarroAlexKU/Configure-Credentials-for-the-AWS-CLI/blob/main/Screenshot%202023-02-14%20at%204.35.05%20PM.png)
