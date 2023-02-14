@@ -51,4 +51,5 @@ and you should see a list returned of all the s3 buckets you have access to:
 ```
 aws s3 ls
 ```
+![ScreenShot](https://github.com/NavarroAlexKU/Configure-Credentials-for-the-AWS-CLI/blob/main/Screenshot%202023-02-14%20at%204.45.50%20PM.png)
 
