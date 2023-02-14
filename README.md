@@ -18,5 +18,6 @@ For the AWS account that you want to have access programmatically through the AW
 * The third page titled "Retrieve Access Keys" will show you the generated Access Key and Secret Access Key
     - I'm not going to show mine for obvious security reasons.
 
-## Configure Credentials on whatever Operating System you're using. I'm using a Mac so this specific demonstration will show how to do this on Mac O/S:
+## Configure Credentials on your Operating System:
+I'm using a Mac so this specific demonstration will show how to do this on Mac O/S:
 * Open your terminal
