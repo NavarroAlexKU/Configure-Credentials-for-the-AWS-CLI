@@ -20,4 +20,17 @@ For the AWS account that you want to have access programmatically through the AW
 
 ## Configure Credentials on your Operating System:
 I'm using a Mac so this specific demonstration will show how to do this on Linux O/S.
-* Open your terminal
+* Open your terminal and do the following:
+    - type aws configure
+    - enter your accesskey then press enter
+    - enter your AWS Secret Acess Key and press enter
+    - enter your Default region name then press enter
+    - enter your output format then press enter
+
+```
+$ aws configure
+AWS Access Key ID [None]: accesskey
+AWS Secret Access Key [None]: secretkey
+Default region name [None]: us-west-2
+Default output format [None]:
+```
