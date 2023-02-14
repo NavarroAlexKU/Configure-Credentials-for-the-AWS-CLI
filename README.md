@@ -45,3 +45,5 @@ Now that we have our AWS CLI configured for the user, we need to add what permis
 * I'm going to add full permissions for EC2 and Amazon S3
 * Once you've chose the permissions you want for the user, you can click "Add Permissions"
 
+![ScreenShot](https://github.com/NavarroAlexKU/Configure-Credentials-for-the-AWS-CLI/blob/main/Screenshot%202023-02-14%20at%204.38.48%20PM.png)
+
