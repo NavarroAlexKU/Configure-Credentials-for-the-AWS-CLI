@@ -11,4 +11,5 @@ For the AWS account we have to have access programmatically through the AWS API 
 ![ScreenShot](https://github.com/NavarroAlexKU/Configure-Credentials-for-the-AWS-CLI/blob/main/Screenshot%202023-02-14%20at%203.55.41%20PM.png)
 
 Access Key best practices & alternatives:
-* Avoid using long-term credentials like access keys to improve your AWS security. The following is different use cases and alternatives:
+* Avoid using long-term credentials like access keys to improve your AWS security. This is a cool feature as you can select what your use case is then IAM will give you suggested alternatives. For this demonstration we will continue through:
+![ScreenShot](https://github.com/NavarroAlexKU/Configure-Credentials-for-the-AWS-CLI/blob/main/Screenshot%202023-02-14%20at%204.15.52%20PM.png)
