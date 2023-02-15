@@ -1,6 +1,9 @@
 # Configure Credentials for AWS CLI
 ![ScreenShot](https://github.com/NavarroAlexKU/Configure-Credentials-for-the-AWS-CLI/blob/main/Main%20Picture.jpeg)
 
+## Author:
+[Alex Navarro]
+
 # Generate User Permissions:
 For the AWS account that you want to have access programmatically through the AWS API or the AWS CLI, we need to generate an access key using the "Identity and Access Management (IAM)" service in AWS.
 * click Users under the "Access Management" tab on the left of your screen.
